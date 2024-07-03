@@ -1,0 +1,10 @@
+pyemd
+sklearn
+torch
+numpy
+torchvision
+PIL
+opencv-python
+os
+json
+pycocotools
